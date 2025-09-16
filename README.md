@@ -1,4 +1,4 @@
-#  Build Your Own Neural Networks from Scratch
+#  Build Neural Networks from Scratch
 
 This repository contains **two neural network projects implemented from scratch using NumPy**, demonstrating **forward/backward propagation, training loops, and practical applications** in healthcare and image recognition. Both projects are available as **Jupyter notebooks**.
 
